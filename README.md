@@ -1,19 +1,19 @@
 # blockchain-
-Simple Blockchain
+-Simple Blockchain
 A blockchain implementation that handles basic transactions and utilizes smart contracts. The project is built using Python for the backend and Ganache for blockchain simulation. Transaction requests are processed using Flask and Postman. The consensus protocol is implemented to ensure the integrity of the blockchain. Additionally, a smart contract written in Solidity is utilized to interact with the blockchain. The project also includes ICO processing and relevant tests.
 
-Table of Contents
-Overview
-Features
-Installation
-Usage
-Smart Contract
-Tests
-Contributing
-License
-Contact
+-Table of Contents
+-Overview
+-Features
+-Installation
+-Usage
+-Smart Contract
+-Tests
+-Contributing
+-License
+-Contact
 
-Overview
+-Overview
 Welcome to Simple Blockchain, a project that demonstrates the core concepts of a blockchain system.
 It showcases the implementation of basic transactions, a consensus protocol, and smart contract integration. 
 With the help of Python, Flask, Postman, Solidity, and Ganache, this project provides a practical understanding of blockchain technology and its application in a decentralized environment.
